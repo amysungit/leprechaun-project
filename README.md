@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Leprechaun Project
+## Leprechaun Project Structure
 
 *Default Structure for A Basic Project*
 
